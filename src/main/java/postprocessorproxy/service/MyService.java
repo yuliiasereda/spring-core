@@ -1,4 +1,4 @@
-package postprocessorproxy;
+package postprocessorproxy.service;
 
 public interface MyService {
 

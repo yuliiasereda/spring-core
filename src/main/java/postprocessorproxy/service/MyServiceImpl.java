@@ -1,7 +1,9 @@
-package postprocessorproxy;
+package postprocessorproxy.service;
 
 import java.util.Random;
 import org.springframework.stereotype.Service;
+import postprocessorproxy.bpp.Profiling;
+
 
 @Service
 @Profiling
